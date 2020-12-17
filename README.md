@@ -1,6 +1,7 @@
 # Hotdealbot
 
-Users can search to share photos of the best local deals that they discover around their location.
+Users can easily get hot deals information from slickdeals.
+
 ## Getting Started
 
 The following instructions will help you get you running this software.
