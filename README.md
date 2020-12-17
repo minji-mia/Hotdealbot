@@ -9,7 +9,9 @@ The following instructions will help you get you running this software.
 
 To install the python requirements please run the command below.
 
-''' pip install pip install beautifulsoup4 '''
+```
+pip install pip install beautifulsoup4 
+```
 
 ### Installing
 
@@ -21,7 +23,9 @@ Have python 3.x installed. This was tested with 3.7.7
 
 You would simpily run the command below.
 
-''' python slickdeals.py '''
+```
+python slickdeals.py 
+```
 
 The bot will then notify you on discord when the deals match your criteria.
 
