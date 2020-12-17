@@ -13,14 +13,16 @@ To install the python requirements please run the command below.
 
 ### Installing
 
-Have python 3.x installed. This was tested with 3.7.3
+Have python 3.x installed. This was tested with 3.7.7
 
 ## Running the program 
 
 ### Executing the program
-Once you have all of the json files configured as you would like simpily run the command below.
 
-python main.py
+You would simpily run the command below.
+
+''' python slickdeals.py '''
+
 The bot will then notify you on discord when the deals match your criteria.
 
 ### Screenshots
@@ -32,8 +34,8 @@ The bot will then notify you on discord when the deals match your criteria.
 
 ## Built with
 
-- Python 3.7(https://www.python.org/)
+- [Python 3.7](https://www.python.org/)
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the [MIT](https://github.com/minji-mia/Hotdealbot/blob/master/LICENSE) License
