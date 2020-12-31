@@ -2,6 +2,8 @@
 
 Users can easily get hot deals information from slickdeals.
 
+![hotdeal-bot](https://user-images.githubusercontent.com/52568892/103412201-9500aa80-4b39-11eb-8b2c-2e4e53cb5103.png)
+
 ## Getting Started
 
 The following instructions will help you get you running this software.
